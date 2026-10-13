@@ -1,6 +1,8 @@
+# Build outputs
 bin/
 obj/
 
+# IDE & OS
 .vs/
 .vscode/
 .idea/
@@ -8,3 +10,4 @@ obj/
 *.suo
 *.userosscache
 *.sln.docstates
+.DS_Store
